@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Futurisme Documentation</h1>
+<h1 align="center">Documentation</h1>
 
 <p align="center">
   <strong>Pusat Dokumentasi Teknis Ekosistem Futurisme Store</strong>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js">
+    <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js">
   </a>
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -86,7 +86,7 @@ Pastikan Anda telah menginstal **Node.js** (versi 18+ direkomendasikan).
 1.  **Clone Repository**
 
     ```bash
-    git clone [https://github.com/username/futurisme-documentation.git](https://github.com/username/futurisme-documentation.git)
+    git clone https://github.com/username/futurisme-documentation.git
     cd futurisme-documentation
     ```
 
@@ -127,9 +127,9 @@ Jika Anda ingin menambahkan halaman dokumentasi baru:
 
 -----
 
-\<p align="center"\>
-\&copy; 2024 Futurisme Store Development Team. All rights reserved.
-\</p\>
+<p align="center">
+&copy; 2024 Futurisme Store Development Team. All rights reserved.
+</p>
 
 ```
 ```
