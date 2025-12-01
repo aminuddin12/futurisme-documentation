@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./public/FuturismeLogo-Docs-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./public/FuturismeLogo-Docs-light.svg">
-      <img alt="Futurisme Documentation Logo" src="./public/FuturismeLogo-Docs-light.svg" width="250">
+      <img alt="Futurisme Documentation Logo" src="./public/FuturismeLogo-Docs-light.svg" width="500">
     </picture>
   </a>
 </p>
