@@ -48,7 +48,7 @@ Pemisahan ini dilakukan untuk:
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Icons**: [@iconify/react](https://iconify.design/)
 - **Animation**: [Framer Motion](https://www.framer.com/motion/)
